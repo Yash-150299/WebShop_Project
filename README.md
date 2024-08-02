@@ -1,9 +1,8 @@
-# DemoWebShop.com Testing Project
+# WebShop Testing Project
 
 ### Project Overview
 
-This project is aimed at testing various functionalities of a web store using Selenium and TestNG. The web store under test is [DemoWebShop](https://demowebshop.tricentis.com/).
-
+This project is aimed at testing various functionalities of a web store using Selenium and TestNG.
 ## User Stories Covered
 
 **User Registration (US 201):** This user story involves the ability for users to register on the web store platform. Registration enables users to create an account, which grants them access to features like shopping, order tracking, and personalized recommendations.
@@ -60,18 +59,3 @@ To run the tests locally, follow these steps:
 4. Update the test scripts in the project to reflect the specific test scenarios and requirements.
 
 
-## CONTRIBUTORS:
-
-https://github.com/NigarAylaOzcanan 
-
-https://github.com/Mednasa 
-
-https://github.com/Artam22  
-
-https://github.com/0AhmetKaya0 
-
-https://github.com/beyzanurer
-
-https://github.com/faruk-ayrcc25 
-
-https://github.com/SeymaNur44 
